@@ -1,0 +1,56 @@
+/*declare font*/
+@font-face{
+  font-family: Righteous;
+  src: url(font/Righteous.ttf);
+}
+
+body {
+  background-color: rgba(92, 171, 236, 0.527);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+  font-family: "Lucida Console";
+}
+  
+h1 {
+  font-size: 6vw;
+  font-family: Righteous;
+  color: #3D3B8E;
+}
+  
+p, #noSongs {
+  font-size: 28px;
+}
+
+iframe{
+  display: none;
+  margin-bottom: 5vh;
+}
+
+#em{
+  color: #E072A4;
+}
+
+#noSongs{
+  display: none;
+}
+
+button {
+  color: #B0E298;
+  font-size: 125%;
+  border-radius: 70%;
+  border: none;
+  text-shadow: 0 1px 1px rgba(60, 59, 142, 0.397);
+  background: #3D3B8E;
+  padding: 10px;
+  outline: none;
+  cursor: pointer;
+}
+  
+button:hover {
+  background: #E072A4;
+  padding: 12px;
+}
