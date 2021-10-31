@@ -1,11 +1,7 @@
-# ComIT_Site_1
+# ComIT Site 1
 
 ## Purpose
-User Interface design practie site.
-Randomly generate preselected YouTube videos
-
-## Users
-Public
+UI design practie site. Randomly generate preselected YouTube videos. 
 
 ## Technologies
 JS  
