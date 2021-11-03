@@ -1,4 +1,4 @@
-# ComIT Site 1
+# Song Selector
 
 ## Purpose
 UI design practie site. Randomly generate preselected YouTube videos. 
